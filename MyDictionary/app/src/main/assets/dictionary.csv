@@ -1,13 +1,279 @@
-1,A,A-The first letter of the English and of many other alphabets.
-2,A 1,A l- A registry mark given by underwriters (as at Lloyd's) to ships in first-class condition. Inferior grades are indicated by A 2 and A.
-3,ABACTION,ABACTION-Stealing cattle on a large scale.
-4,ABACUS,ABACUS-A table or tray strewn with sand anciently used for drawing and calculating and etc.
-5,ABANDON,ABANDON-To cast or drive out or to banish or to expel or to reject.
-6,ACTIVE,ACTIVE-doing something; being busy or lively.
-7,ACUTE,ACUTE-critical; sharp; keen.
-8,AQUA,AQUA-Water; -- a word much used in pharmacy and the old chemistry in various signification; determined by the word or words annexed.
-9,ARCANE,ARCANE-Hidden; secret. [Obs.] 'The arcane part of divine wisdom.' Berkeley.
-10,ARCHITECT,ARCHITECT-A person skilled in the art of building; one who understands architecture; or makes it his occupation to form plans and designs of buildings; and to superintend the artificers employed.
-11,CHALK,CHALK-To rub or mark with chalk.
-12,CHAM,CHAM-The sovereign prince of Tartary; -- now usually written khan.
-13,CHAMBER,CHAMBER-To reside in or occupy a chamber or chambers.
+1,A,A- The first letter of the English and of many other alphabets.
+2,ABACTION,ABACTION- Stealing cattle on a large scale.
+3,ABACUS,ABACUS- A table or tray strewn with sand anciently used for drawing and calculating and etc.
+4,ABANDON,ABANDON -To cast or drive out or to banish or to expel or to reject.
+5,ACTIVE,ACTIVE- doing something; being busy or lively.
+6,ACUTE,ACUTE- critical; sharp; keen.
+7,ADD,ADD- to put something together with something else; You add two and two to make four.
+8,ADDRESS,ADDRESS- the name and number of your house and the street and town where you are living; The same word also means to write or speak to people.
+9,ADORE,ADORE- to love intensely; worship.
+10,ADVENTURE,ADVENTURE- an exciting or dangerous thing that you do or that happens to you.
+11,AERIAL,AERIAL- the metal rods or wires which receive or send radio or television signals.
+12,AEROPLANE,AEROPLANE- a flying machine.
+13,AFFORD,AFFORD- to have enough money for something you want to buy.
+14,AQUA,AQUA- Water; -- a word much used in pharmacy and the old chemistry in various signification; determined by the word or words annexed.
+15,ARC,ARC-curve.
+16,ARCHITECT,ARCHITECT-A person skilled in the art of building; one who understands architecture; or makes it his occupation to form plans and designs of buildings; and to superintend the artificers employed.
+17,AVOID,AVOID-to escape; to keep out of the way of something.
+18,AWKWARD,AWKWARD- clumsy; The same word also means not convenient or not comfortable.
+19,AXE,AXE- a sharp tool with a long handle; used for chopping wood.
+20,AZURE,AZURE- a clear sky-blue colour.
+21,BABBLE,BABBLE- to talk or make sounds in a foolish way; to make a murmuring sound as water does in a stream or brook.
+22,BABE,BABE-an infant; an inexperienced person; a young child of either sex.
+23,BABOON,BABOON-a large monkey with a short tail and al long dog-like face.
+24,BABY,BABY-	a very young child who cannot walk yet.
+25,BABYISH,BABYISH-	like a baby.
+26,BACHELOR,BACHELOR- a man who has not married.
+27,BACKBONE,BACKBONE- the spine; strength; the spinal column.
+28,BACKING,BACKING- support;implied approval.
+29,BACON,BACON- pigmeat that has been dried and salted.
+30,BACTERIA,BACTERIA-disease-germ; microbe.
+31,BAD,BAD-	not good; wrong; spoiled.
+32,BADGE,BADGE-	a special sign or mark you wear to show you belong to a certain school or club.
+33,BALLERINA,BALLERINA- a girl ballet dancer.
+34,BALLET,BALLET-a kind of dancing which tells a story in movement; with music; but without using words.
+35,BALLOON,BALLOON- a bag filled with air or gas so that it can float about the ground.
+36,BALM,BALM- an ointment for healing; a soothing medicine.
+37,BAMBOO,BAMBOO- a kind of very tall grass with stiff hollow stems which are used for canes or for making furniture.
+38,BAN,BAN- an order to put a stop to something.
+39,BUS,BUS-	a large vehicle which carries many people.
+40,BUTTERFLY,BUTTERFLY-	an insect with colured wings.
+41,BUTTON,BUTTON- a round fastening on clothes; any small knob.
+42,BUY,BUY-	to give money in exchange for something.
+43,BUZZ,BUZZ- the humming sound a bee makes.
+44,CAB,CAB-	the place in an engine or lorry where the drive sits; The same word also means a taxi.
+45,CABBAGE,CABBAGE- a vegetable with green or purple leaves growing tightly together in a round ball.
+46,CABIN,CABIN- a small house or hut made of logs or other rough materials; The same word also means a room for passengers on a ship or aeroplane.
+47,CABINET,CABINET-	a kind of cupboard with glass doors where you keep ornaments or collections of things; a council of ministers.
+48,CABLE,CABLE-	a very strong thick rope; sometimes made of pieces of wire twisted together.
+49,CACKLE,CACKLE- the loud excited noise made by hens.
+50,CACTUS,CACTUS-a plant with thick leaves and stems; often covered with prickles; which grows in hot dry countries; You can also grow small ones as house plants.
+51,CAD,CAD- a mean vulgar fellow.
+52,CADET,CADET-	a boy or young man who is learning to be an officer in the army or navy or air force.
+53,CAFE,CAFE- (say caffay) a place where you can buy a meal or a snack; a small restaurant.
+54,CAFETERIA,CAFETERIA-	an eating-place where you fetch your own food from a counter.
+55,cage,CAGE-a box or room with bars; where birds or animals are kept.
+56,cake,CAKE- a sweet food made of flour; eggs and sugar and baked in an oven.
+57,candle,CANDLE-	a rounded stick of wax with a wick through the middle; It burns and gives light.
+58,candlestick,CANDLESTICK- a holder for a candle.
+59,CANE,CANE- the hard stem of plant or small palm tree; The same word also means a light walking stick.
+60,canel,CANEL-	a very big ditch; dug across land and filled with water so that ships and boats can move along it.
+61,dash,DASH- to rush suddenly; The same word also means a short straight line in writing; like this
+62,DATE,DATE- a time when something happens; a certain hour:day:month or year; The same word also means a sweet sticky fruit with a stone.
+63,daughter,DAUGHTER-	a female child of a father and a mother.
+64,daunt,DAUNT-	to discourage; intimidate; frighten.
+65,daw,DAW-	a bird of the crow kind.
+66,dawn,DAWN-	the first light of day.
+67,day,DAY-	the time between sunrise and sunset.
+68,dazed,DAZED-	being confused or bewildered.
+69,dazzle,DAZZLE-	to blind someone for a short time by suddenly shining a strong bright light into his eyes.
+70,eager,EAGER-	wanting very much to do something; keen.
+71,eagle,EAGLE-	a large bird of prey; with a sharp curved beak and claws.
+72,ear,EAR-	the part of the body you hear with; The same word means a spike of grain such as an ear of corn or barley.
+73,earl,EARL- a nobleman of high rank.
+74,early,EARLY-	in good time; near the beginning.
+75,earn,EARN- to get something; usually money; in return for working; to deserve.
+76,earnest,EARNEST-	serious; sincere.
+77,earring,EARRING-	jewellery which is worn on the ear.
+78,earth,EARTH- the planet we live on; the world. The same word also means the ground in a garden or field.
+79,earthquake,EARTHQUAKE- a violent shaking of the earth’s surface.
+80,ease,EASE- freedom from pain or worry; rest from work.
+81,education,EDUCATION-	helping people to learn; usually in schools or colleges.
+82,eel,EEL-	a very long fish that looks like a snake.
+83,effort,EFFORT-	a hard try; When you use all your strength you are making an effort.
+84,egg,EGG-	an oval object with a thin shell; a chicken; like other baby birds; lives inside an egg before its is born.
+85,elaborate,ELABORATE-	to work out in detail; produce by labour.
+86,elastic,ELASTIC-	material made with rubber which stretches easily.
+87,elbow,ELBOW-	the joint in the middle of your arm.
+88,fable,FABLE-	a short story; usually about animals; which is meant to teach us lesson.
+89,fabric,FABRIC-woven stuff; frame; building structure.
+90,facade,FACADE- outward appearance; front of building.
+91,face,FACE- the front of your head.
+92,fact,FACT- a thing that everyone knows is true and hot imaginary.
+93,factice,FACTICE- the science and art of disposing forces in order for battle; adroit management of a situation.
+94,factory,FACTORY-	a building where things are made in large quantities; usually by machine.
+95,familiar,FAMILIAR- well known or close to you.
+96,family,FAMILY-a mother and father and their children.
+97,famine,FAMINE- great scarcity of food; starvation.
+98,famished,FAMISHED- starving.
+99,famous,FAMOUS- well known.
+100,fan,FAN- something which makes a cool breeze; The same word also means someone who is very hobby or famous person.
+101,fancy,FANCY- decorated; The same word also means imagination.
+102,fang,FANG- a long pointed tooth.
+103,far,FAR- a long way away.
+104,fare,FARE- the price you pay for traveling on a public vehicle such as a bus..
+105,farewell,FAREWELL-	an old-fashioned word for good-bye.
+106,farm,FARM-	a place where a farmer keeps animals and grows food.
+107,farmer,FARMER-	a man who looks after a farm.
+108,farmyard,FARMYARD-	ground surrounded by barns; cowsheds and other farm buildings.
+109,gabble,GABBLE-	to speak so quickly that people find it hard to understand what you are saying.
+110,gain,GAIN- to earn or win; to add to what you already have.
+111,gaing,GAINING-	a group of people working together; The same word also means a band of robbers or thieves.
+112,gale,GALE-	a strong wind.
+113,gallery,GALLERY-the upper floor of seats in a theatre or church; The same word also means a room or building where works of art on show.
+114,gallon,GALLON-	a measure of liquid; equal to 4 quarts or 8 points.
+115,gallop,GALLOP-	the fastest speed at which a horse can move.
+116,gamble,GAMBLE-	to play a game for money.
+117,gambol,GAMBOL-	to skip and jump happily.
+118,game,GAME-	a way of playing which has rules.
+119,gaming,GAMING-	another word for gambling.
+120,garage,GARAGE-	a place where motor cars are kept or repaired.
+121,garden,GARDEN- a piece of land where flowers; fruit or vegetables are grown.
+122,garland,GARLAND- a circle of leaves or flowers worn on the head or around the neck or hung on something as a decoration.
+123,gasp,GASP- to take a quick deep breath; to struggle for breath.
+124,gate,GATE- a door in a fence; wall or hedge.
+125,habit,HABIT-something you do regularly and often; almost without thinking about it; such as brushing your teeth.
+126,habitation,HABITATION-residence;abode; occupancy.
+127,hackney,HACKNEY-a horse kept for hire; a coach kept for hire.
+128,hail,HAIL-frozen rain which falls as little lumps of ice.
+129,HAIR,HAIR-the soft covering which grows on your head.
+130,halt,HALT-to stop.
+131,halve,HALVE-to divide into tow equal parts.
+132,hammer,HAMMER-a heavy tool for hitting or breaking things.
+133,hamper,HAMPER-a large basket with a lid; often used for carrying food; The same word also means to hinder.
+134,hamster,HAMSTER-a little furry animal; usually golden-brown in colour; It is often kept as a pet.
+135,hand,HAND-the end of your arm which you use to hold things.
+136,handbag,HANDBAG-a small light bag that you can carry in your hand.
+137,handful,HANDIFUL-as much as your hand will hold; a small number or quantity.
+138,handicap,HANDICAP-to make something more difficult for someone.
+139,handicraft,HANDICRAFT-work in which things are made by hand and not by machine.
+140,handkerchief,HANDKERCHIEF-a small piece of cloth for wiping your nose or eyes.
+141,handle,HANDLE-the part or something by which you can hold it; like the handle of a cup; The same word also means to touch or hold things with your hands.
+142,handlebar,HANDLEBAR-the part of a bicycle you hold on to and steer with.
+143,handsome,HANDSOME-good-looking.
+144,handy,HANDY-useful and clever with your hands; The same word also means near; close at hand.
+145,hang,HANG- to fasten something to firm support so that it swings freely; but cannot fall.
+146,hanger,HANGER- a shaped piece of metal or wood to hang clothes on so that they do not get wrinkled.
+147,haphazard,HAPHAZARD- not planned; happening by chance.
+148,hapless,HAPLESS- unlucky; unhappy.
+149,happen,HAPPEN-to take place.
+150,important,IMPORTANT- of great interest or value; The word also means powerful.
+151,impossible,IMPOSSIBLE-not able to be done.
+152,impress,IMPRESS-to make something stick in someone’s mind.
+153,impression,IMPRESSION-an idea or thought that is fixed firmly in your mind; The word also means a mark that is made by pressing or printing.
+154,impressive,IMPRESSIVE-making a deep impression on the mind.
+155,improve,IMPROVE- to make better; to become better.
+156,impudent,IMPUDENT-cheeky; not respectful.
+157,kangaroo,KANGAROO-an animal which can jump a long way; It has a pocket for its babies.
+158,keel,KEEL- a heavy piece of wood or metal that goes along the bottom of a boat or ship from one end to the other.
+159,keen,KEEN- very interested in something; The same word also means sharp; cutting.
+160,keep,KEEP- to hold on to something and not give it away; The same word also means the strongest; inside part of castle.
+161,keeper,KEEPER-someone who looks after or guards something; like a gamekeeper or a keeper at the zoo.
+162,kennel,KENNEL- a small house or shelter for a dog.
+163,kernel,KERNEL- the inside part of a nut that can usually be eaten.
+164,kerosene,KEROSENE-	a lamp oil from petroleum.
+165,kettle,KETTLE-	a metal container used for boiling water; It has a lid; a handle and spout.
+166,key,KEY-a small piece of metal; specially shaped so that it will open a lock; The same word also means a lever on a piano or typewriter.
+167,keyboard,KEYBOARD- the keys of a piano; organ or typewriter; arranged in order.
+168,keyhold,KEYHOLD-a hole specially shaped so you can put a key in it.
+169,kick,KICK- to hit something or someone with your foot.
+170,kid,KID- a young goat; The same word also means a child.
+171,kidnap,KIDNAP-to take someone away by force.
+172,kill,KILL-to cause someone away by force.
+173,kneel,KNEEL- to get down on your knees.
+174,knickers,KNICKERS-short underpants worn by girls and women.
+175,knife,KNIFE- a thin sharp piece of metal with a handle; used for cutting.
+176,sack,SACK-	a large bag made of cloth; paper or plastic.
+177,sacred,SACRED-	holy.
+178,sad,SAD- not happy; feeling sorry.
+179,saddle,SADDLE-	a leather seat for a rider;which is fastened on to a horse’s back or a bicycle.
+180,safari,SAFARI-	an expedition in Africa in search of wild animals.
+181,safe,SAFE-	not able to be hurt; out of danger; The same word also means a very strong metal box used to lock money and valuable things away safety.
+182,safety,SAFETY-	freedom from harm or danger.
+183,sag,SAG-	to sink down or bend in the middle; to hang limply or droop.
+184,saga,SAGA-	a long story about people and legends of olden days; a long story about a family and their family before them.
+185,sap,SAP- the juice in plants and trees.
+186,sardine,SARDINE-a small fish; usually sold in tins.
+187,sari,SARI-	a long piece of cloth wrapped around the body and hanging loose over the shoulder; worn by girls and women in India.
+188,sarisfactory,SATISFACTORY-	good enough; pleasing.
+189,sark,SARK- a shirt.
+190,sash,SASH- a strip of ribbon or cloth worn round the waist or over the shoulder; The same word also means the frame of a window that slides up and down.
+191,satchel,SATCHEL-	a bag; used for carrying school books.
+192,satellite,SATELLITE- a planet that revolves around another larger planet; as the moon revolves around the earth.
+193,satin,SATIN- a soft shiny material.
+194,t,T- not hard; rough or loud.
+195,tab,TAB-a small flap or loop; usually on a piece of clothing.
+196,table,TABLE- a piece of furniture with legs and a flat top; The same word also means a set of facts or figures arranged in columns.
+197,tableau,TABLEU-	a picture; striking group of dramatic sence.
+198,tablecloth,TABLECLOTH-	a large piece of material used to cover a table.
+199,tablet,TABLET- a small; flat piece of something;like stone; soap and some kinds of medicine.
+200,tacit,TACIT- silent; unspoken.
+201,tack,TACK - a short nail with a wide flat head; The same word also means to sew something together with long loose stitches.
+202,tackle,TACKLE-	to use all your strength to try to do something; The same word also means the equipment for doing something; such as fishing tackle.
+203,tadpole,TADPOLE- a frog when it is very young; before its legs develop.
+204,taffeta,TAFFETA- a kind of stiff shiny cloth used for making dresses.
+205,tag,TAG- a label.
+206,tail,TAIL- the part that comes out at the end of anything; like the tail of an animal; a kite or an aeroplane.
+207,tailor,TAILOR-	a man who makes clothes; such as suits; overcoats; skirts and trousers.
+208,take, TAKE- to get hold: or to carry away.
+209,tale,TALE- another word for a story.
+210,talk,TALK- to speak or say something.
+211,talkative,TALKATIVE- fond of talking; talking too much.
+212,tall,TALL- very high.
+213,tambourine,TAMBOURINE-	a small thin drum which you tap with your hand; It has small metal discs around the edge which make a tinkling sound when you shake it.
+214,tame,TAME- not wild; able to live with human beings as pets; like tame rabbits.
+215,tamper,TAMPER-to meddle or interfere with something.
+216,ubiquitous,UBIQUITOUS- existing everywhere; omnipresent.
+217,ugly,UGLY- not pretty or pleasant to look at.
+218,ulcer,ULCER- an open sore on the skin or inside you.
+219,ultimatum,ULTIMATUM- the last offer; Final warning.
+220,umbrella,UMBRELLA-a round piece of material stretched over thin pieces of metal; It can be opened and held over your head to keep you from getting wet in the rain.
+221,umpire,UMPIRE- someone who settles arguments and decides whether players have broken the rules in games like cricket and tennis.
+222,uncle,UNCLE- the brother of your mother or father.
+223,uncomfortable,UNCOMFORTABLE- not at ease; feeling awkward.
+224,underground,UNDERNEATH-	underneath the ground; The same word also means a railway that runs in a tunnel under the ground.
+225,underline,UNDERLINE- to draw a line under a word.
+226,underneath,UNDERNEATH- in a lower place; under something.
+227,understand,UNDERSTAND- to know what something means.
+228,undo,UNDO-	to unfasten; untie or open something.
+229,undone,UNDONE-	unfastened; opened.
+230,undress,UNDRESS- to take your clothes off.
+231,unexpected,UNEXPECTED- not expected; sudden.
+232,unhappy,UNHAPPY- not happy; sad.
+233,unhealthy,UNHEALTHY- not healthy; sickly.
+234,unicorn,UNICORN- an	imaginary animal that looks like a horse with a horn in the middle of its forehead.
+235,uniform,UNIFORM- special clothes worn by those who belong to a group of people such as the army or a school.
+236,unify,UNIFY- to form into one.
+237,unimportant,UNIMPORTANT- not important.
+238,uninteresting,UNINTERESTING- not interesting.
+239,union,UNION- a joining together; The same word also means a group of workers who have joined together.
+240,union jack,UNION JACK- the national flag of the United Kingdom.
+241,yacht,YACHT-(rhymes with got) a kind of boat; usually with sails; used for racing or for pleasure.
+242,yak,YAK- a long-haired ox.
+243,yap,YAP-to bark sharply.
+244,yard,YARD- a space; usually closed in by buildings or a fence; The same word also means a measurement of 36 inches or 3 feet.
+245,yarn,YARN-thread made from wool or cotton; The same word also means a story told by someone who has travelled a lot.
+246,yawn,YAWN- to open your mouth wide and breathe air in and out slowly; especially when you are sleepy or bored.
+247,year,YEAR-	a length of time; 365 days;52 weeks or 12 months make a year.
+248,yearning,YEARNING- longing; keen desire.
+249,yell,YELL- to call out very loudly.
+250,yellow,YELLOW- a colour; Lemons and primroses are yellow and so are the yolks of eggs.
+251,yelp,YELP- a short sharp cry or bark.
+252,yeoman,YEOMAN- a man who owns a small estate in land; a gentleman farmer.
+253,yes,YES- the word you use to show you agree.
+254,yesterday,YESTERDAY- the day before today.
+255,yet,YET- by now; The same word also means but.
+256,yew,YEW- an evergreen tree; often seen growing in churchyards.
+257,yield,YIELD- to give up;as when the enemy surrenders; The same word also means to produce; as when a field of wheat yields a good crop.
+258,yo-yo,YO-YO -	a toy in the shape of a reel; which spins up and down on a sting.
+259,yolk, YOLK-	the yellow part in the middle of an egg.
+260,younder,YOUNDER- over there: beyond.
+261,young,YOUNG- not old; in the early part of life.
+262,younger,YOUNGER- not as old as someone else.
+263,youngster,YOUNGSTER- a young person who is not yet grown up.
+264,yourself,YOURSELF- you and no one else.
+265,youth,YOUTH- the time when you are young; The same word also means a young man.
+266,youthful,YOUTHFUL- young; fresh or vigorous; as in youth.
+267,zeal,ZEAL-	enthusiasm; eagerness; passionate ardour.
+268,zealous,ZEALOUS- fervent; enthusiastic; eager; earnest.
+269,zebra,ZEBRA- a wild animal like a small horse with stripes.
+270,zero, ZERO- nothing.
+271,zest,ZEST- joy in what you are doing: enthusiasm.
+272,zigzag,ZIGZAG-	moving from side to side; like this line.
+273,zinc,ZINC- a bluish-white metal.
+274,zip,ZIP- a long metal or plastic fastener used to do up clothing and to close purses and bags.
+275,zipper,ZIPPER-	another word for zip-fastener.
+276,zone,ZONE- a large are of the world which is different from other areas.
+277,zoo,ZOO- a place where wild animals are kept and people can come to look at them; The word is short for zoological gardens.
+278,zoology,ZOOLOGY- the science of the natural history of animals.
+279,zoon,ZOON- an animalGrammar Website.
